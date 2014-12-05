@@ -1,0 +1,9 @@
+{
+  "name": "FlintPlugin",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "OpenFlint Native Plugin",
+
+	"plugins": [
+    { "path": "npFlintPlugin.dll", "public": true }
+  ]
+}
